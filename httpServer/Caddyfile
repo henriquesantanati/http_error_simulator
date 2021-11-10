@@ -1,0 +1,5 @@
+:80 {
+      respond / "ROOT Here!!!" 500
+      respond /v1 "V1 Here!!!" 200
+      respond /v2 "V2 Here!!!" 200
+    }
